@@ -98,4 +98,6 @@ See the homepage on local machine :
   
   step 2 : visit http://localhost:8888/ 
 
-Or visit https://acquire-poirot.herokuapp.com/
+Or visit https://acquire-poirot.herokuapp.com/  (Dead Link)
+
+Visit : https://acquire-qag2.onrender.com/
